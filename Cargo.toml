@@ -1,0 +1,6 @@
+[package]
+name = "imgdiff"
+version = "0.1.0"
+
+[dependencies]
+image = "0.18.0"
